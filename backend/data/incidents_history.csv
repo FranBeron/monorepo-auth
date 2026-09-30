@@ -1,0 +1,11 @@
+legacy_id,description,categoria,estado,ubicacion,date
+INC-001,El cliente informa que su tarjeta fue rechazada al intentar pagar,pago,abierta,Central,2026-07-01T10:15:00+00:00
+INC-002,La terminal de atención dejó de responder durante una operación,sistema,en_progreso,Sucursal Norte,2026-07-03T14:20:00+00:00
+INC-003,Un pedido apareció duplicado en la cuenta del cliente,pedido,resuelta,Sucursal Centro,2026-07-06T09:10:00+00:00
+INC-004,El cliente reportó una demora excesiva para recibir atención,atencion,abierta,Sucursal Sur,2026-07-10T18:40:00+00:00
+INC-005,La impresora del puesto de atención dejó de funcionar,infraestructura,resuelta,Sucursal Norte,2026-07-13T11:00:00+00:00
+INC-006,El cliente informa que se registró dos veces el mismo cobro,pago,resuelta,Sucursal Centro,2026-07-18T16:45:00+00:00
+INC-007,La aplicación muestra un error al intentar iniciar sesión,sistema,en_progreso,Central,2026-07-21T08:30:00+00:00
+INC-008,El pedido informado por el cliente no existe en el sistema,pedido,descartada,Sucursal Sur,2026-07-24T12:25:00+00:00
+INC-009,El cliente realizó un reclamo por mala atención recibida,atencion,abierta,Sucursal Centro,2026-07-28T17:15:00+00:00
+INC-010,La sede sufrió una interrupción de conexión a internet,infraestructura,resuelta,Sucursal Norte,2026-08-02T07:50:00+00:00
